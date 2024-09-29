@@ -23,9 +23,9 @@ The UPI Transaction Detail Extractor is a Python application that utilizes OpenC
 
 ## Installation
 
-1. **Install Python**: Ensure you have Python 3.x installed. You can download it from [python.org](https://www.python.org/downloads/).
+1. Install Python: Ensure you have Python 3.x installed. You can download it from [python.org](https://www.python.org/downloads/).
 
-2. **Install Required Packages**: Use pip to install the required packages. You can run the following command:
+2. Install Required Packages: Use pip to install the required packages. You can run the following command:
 
    ```bash
    pip install opencv-python pytesseract numpy
