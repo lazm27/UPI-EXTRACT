@@ -86,7 +86,3 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 This project is licensed under the MIT License. See the LICENSE file for details.
 ```
 
-### Notes
-- You can copy this formatted README directly into your repository's README.md file.
-- Make sure the links (like for Python and Tesseract) are accessible and correct.
-- Adjust any sections as necessary to fit your project specifics or preferences.
